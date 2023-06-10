@@ -1,0 +1,55 @@
+// Exercise 1: Calculate the Sum of Two Numbers
+
+Ask for two numbers (a,b)
+Add a+b=x
+Print solution "(x)"
+
+// Exercise 2: Check if a Number is Even or Odd
+
+Ask for number (a)
+Check if number is divisible by 2
+	If a/2 is an integer, print "even"
+	If a/2 is not an integer, print "odd"
+
+// Exercise 3: 
+Write pseudo code that will perform the following.    
+
+a) Read in 5 separate numbers.   
+b) Calculate the average of the five numbers.
+c) Find the smallest (minimum) and largest (maximum) of the five entered numbers.
+d) Write out the results found from steps b and c with a message describing what they are
+
+Ask for 5 separate numbers (a,b,c,d,e)
+
+Calculate the average of five numbers (a,b,c,d,e)
+	Add a+b+c+d+e=x
+	Divide x%5=y
+	Print "(y) is average"
+	
+Compare numbers (a,b,c,d,e)
+	Determine minimum value from input numbers
+		Check if a<b and a<c and a<d and a<e
+			If yes, then print "a is minimum"
+		Check if b<a and b<c and b<d and b<e
+			If yes, then print "b is minimum"
+		Check if c<a and c<b and c<d and c<e
+			If yes, then print "c is minimum"
+		Check if d<a and d<b and d<c and d<e
+			If yes, then print "d is minimum"
+		Check if e<a and e<b and e<c and e<d
+			If yes, then print "e is minimum"
+	Determine maximum value from input numbers
+		Check if a>b and a>c and a>d and a>e
+			If yes, then print "a is maximum"
+		Check if b>a and b>c and b>d and b>e
+			If yes, then print "b is maximum"
+		Check if c>a and c>b and c>d and c>e
+			If yes, then print "c is maximum"
+		Check if d>a and d>b and d>c and d>e
+			If yes, then print "d is maximum"
+		Check if e>a and e>b and e>c and e>d
+			If yes, then print "e is maximum"
+
+
+
+-- END --
