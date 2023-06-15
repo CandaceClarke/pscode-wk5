@@ -23,7 +23,7 @@ Ask for 5 separate numbers (a,b,c,d,e)
 
 Calculate the average of five numbers (a,b,c,d,e)
 	Add a+b+c+d+e=x
-	Divide x%5=y
+	Divide x/5=y
 	Print "(y) is average"
 	
 Compare numbers (a,b,c,d,e)
